@@ -1,5 +1,7 @@
-To-Do List API com Java e Spring Boot
+##To-Do List API com Java e Spring Boot
+
 📝 Descrição
+
 Este projeto é uma API RESTful para um sistema de gerenciamento de tarefas (To-Do List), desenvolvida com Java e o ecossistema Spring Boot. A aplicação permite aos usuários criar, visualizar, atualizar e deletar suas tarefas, seguindo as melhores práticas de desenvolvimento de APIs.
 
 🛠️ Tecnologias Utilizadas
